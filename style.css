@@ -1,0 +1,137 @@
+body{
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+    /*background: url("background.jpg");*/
+    background-color: rgb(30, 36, 36);
+    font-family: 'Roboto', sans-serif;
+}
+.nav-bar{
+    display: flex;
+    background-image: linear-gradient(to right, pink,lightgreen , rgb(112, 143, 248));
+    height: 200px;
+    width: 1450px;
+    /*border-radius: 20px;*/
+    transform: translate(-10%,-20%);
+}
+.h1{
+    transform: translate(0%,70%);
+}
+.logo{
+    transform: translate(30%,8%);
+}
+.about2{
+    display: flex;
+    color: #ff0000;
+    text-decoration: none;
+    transform: translate(0%,0%);
+}
+.about{
+    display: flex;
+    transform: translate(700%,30%);
+}
+.about2:hover{
+    height: 30px;
+    color: #ffffff;
+    /*background-color: #151718;*/
+    border-radius: 20px;
+}
+.search-box{
+    border: none;
+    border-radius: 30px;
+    height: 35px;
+    width: 300px;
+   transform: translate(120%,-170%);
+}
+.s-btn{
+    border: none;
+    background-color: #90ceeb;
+    border-radius: 300px;
+    height: 40px;
+    width: 40px;
+    transform: translate(805%,-157%);
+}
+.followUs2{
+    transform: translate(-200%,-500%);
+    color: #0ac6ff;
+    text-decoration: none;
+}
+/*.followus{
+    transform: translate(0%,0%);
+}*/
+.header{
+    display: flex;
+    margin-top: -110px;
+    margin-right: 130px;
+}
+.header2{
+    display: flex;
+    background-color:transparent;
+    width: 670px;
+    height: 45px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.camel{
+  display: flex;
+  background-color:transparent;
+  border-radius: 50px;
+  margin-left: 5px;
+  margin-top: 15px;
+} 
+/*.camel:hover{
+    transform: scale(1.2);
+}*/
+.chameleon{
+    display: flex;
+    background-color:transparent;
+    border-radius: 50px;
+    margin-left: 450px;
+    margin-top: -70px;
+}
+.page-structure{
+    display: flex;
+    background-color:transparent;
+    border-radius: 30px;
+}
+.panda{
+    display: flex;
+    background-color:transparent;
+    border-radius: 50px;
+    margin-left: 870px;   
+    transform: translateY(-95%);
+}
+.teddy{
+    display: flex;
+    background-color:transparent;
+    border-radius: 50px;
+    margin-left: 250px;
+    transform: translate(50%,-110%);  
+}
+.pigeon{
+    display: flex;
+    background-color:transparent;
+    border-radius: 50px;
+    transform: translate(0%,-205%);  
+}
+.cicada{
+    display: flex;
+    background-color:transparent;
+    border-radius: 50px;
+    transform: translate(220%,-305%);  
+}
+.cLeon{
+    display: flex;
+    transform: translate(80%,-120%);
+}
+a{
+    text-decoration: none;
+}
+.Socials{
+    transform: translate(400%,24%);
+}
+.Socials:hover{
+    color: white;
+}
