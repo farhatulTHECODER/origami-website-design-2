@@ -10,7 +10,7 @@ a:link{
 	color: #ffffff;
 }
 a:visited{
-	color: #ffffff;
+	color: red;
 }
 .nav-bar{
     display: flex;
